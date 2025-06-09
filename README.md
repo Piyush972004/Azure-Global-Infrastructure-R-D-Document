@@ -1,0 +1,1 @@
+# Azure-Global-Infrastructure-R-D-Document
